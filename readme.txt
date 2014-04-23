@@ -1,0 +1,1 @@
+Copy the 'Konrads Modpack 1.0 Client' folder to your MultiMC instances folder
