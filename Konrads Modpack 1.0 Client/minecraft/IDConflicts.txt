@@ -1,0 +1,4 @@
+#Blocks
+3000: openperipheral.glassesbridge from OpenPeripheral - Tileentity from ExpandedRedstone
+3001: openperipheral.peripheralproxy from OpenPeripheral - LapisWire from ExpandedRedstone
+Suggested Ranges: 3294-3971 (678 IDs), 2579-2999 (421 IDs), 1687-2038 (352 IDs)
